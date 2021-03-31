@@ -1,4 +1,4 @@
-# pocket-popup
+# pocket-easy-popup
 
 A simple Firefox extension to easy access [Pocket®](https://getpocket.com/)'s web sites list.
 
